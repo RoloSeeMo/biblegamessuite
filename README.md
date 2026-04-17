@@ -1,2 +1,2 @@
 # biblegamessuite
-Basic support for 'Bible Games: Suite' on the app store.
+GitHub repository for the 'Bible Games: Suite' iOS application.
